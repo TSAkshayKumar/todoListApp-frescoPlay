@@ -1,5 +1,10 @@
-//it is a shortcut not actual sol  
+//it is a shortcut not actual solution 
+
+
+
 //add this inside reducer folder
+
+
 step1 :::::::::::::::::://cart.js
 import {
     ADD_TO_CART,
@@ -50,7 +55,15 @@ const products = (state=[],action)=> {
   
   
   
+  
+  
+  
+  
   step3 :::::::::::::::::: replace component file with following 
+  
+  
+  
+  
   
 //changes in cart.js in component  
 import React from 'react'
@@ -291,15 +304,17 @@ export default ProductsList
 
 
 
+
+
 then run test and if some test pass then submit
 
   
   
+ 
+ 
+ (optional step)step4 ::::::::::::::::::  remove {node} from cart.js file inside components if not removed (optional step if node not define problem come)
   
-  (optional step)step4 ::::::::::::::::::  remove {node} from cart.js file inside components if not removed (optional step if node not define problem come)
   
   
   
   // This is not a complete solution this is just to pass the test to learn something pls understand concept 
-  
-  
